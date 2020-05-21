@@ -1,6 +1,6 @@
 title: پڕۆژەی تێکی کوردی
 description: Kurdish speaking XeLaTeX users group 
-baseurl: "/Sorani" # the subpath of your site, e.g. /blog
+baseurl: "/Sorani/" # the subpath of your site, e.g. /blog
 url: "https://kurdishxelatex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
