@@ -114,10 +114,10 @@ The joy of writing Kurdish in \TeX.
 
 XeLaTeX ی کوردی ساز کراوە چاو لێ بکەن. 
  لێرەدا دەتوانین چەند بەڵگە کە بە 
-- سۆرانی - ڕێنووسی عەرەبی [XeLaTeX بۆ نووسینی کوردی](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/KurdishXeLaTeX/Support/master/docs/Kurdish_XeLaTeX_Sorani_Arabic.pdf){:target="_blank"}
-- سۆرانی - ڕێنووسی لاتین: [XeLaTeX bo Nûsînî Kurdî](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/KurdishXeLaTeX/Support/master/docs/Kurdish_XeLaTeX_Sorani_Latin.pdf){:target="_blank"}
-- کرمانجی - ڕێنووسی لاتین: [XeLaTeX ji bo nivîsandina Kurdî]()
-- کرمانجی - ڕێنووسی عەرەبی: [XeLaTeX ژ بۆ نڤیساندنا کوردی]()
+- سۆرانی - ڕێنووسی عەرەبی [XeLaTeX بۆ نووسینی کوردی]({{site.url}}/assets/Kurdish_XeLaTeX_Sorani_Arabic.pdf){:target="_blank"}
+- سۆرانی - ڕێنووسی لاتین: [XeLaTeX bo Nûsînî Kurdî]({{site.url}}/assets/Kurdish_XeLaTeX_Sorani_Latin.pdf){:target="_blank"}
+- کرمانجی - ڕێنووسی لاتین: [XeLaTeX ji bo nivîsandina Kurdî]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Latin.pdf){:target="_blank"}
+- کرمانجی - ڕێنووسی عەرەبی: [XeLaTeX ژ بۆ نڤیساندنا کوردی]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Arabic.pdf){:target="_blank"}
 
 ---
 

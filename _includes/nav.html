@@ -1,10 +1,16 @@
 <nav role="navigation" aria-label="Main navigation">
-  <a href="#" class="navbar-brand">
+  <a href="{{ site.url }}" class="navbar-brand">
       <!-- Logo Image -->
       <img src="/Sorani/assets/images/Kurdish_XeLaTeX_logo.png" width="180" alt="Kurdish_XeLaTeX_logo" class="mx-auto d-block">
   </a>
   <hr>
+  <b>
   <ul class="navigation-list">
+   <li class="navigation-list-item"><a href="{{ site.url }}/Kurmanji">ماڵپەڕی کورمانجی</a></li>
+   <!-- <li class="navigation-list-item"><a href="{{ site.url }}/Kurmanji">Kurdish XeLaTeX in Kurmanji</a></li> -->
+  </ul>
+  </b>
+<!--   <ul class="navigation-list">
     {%- assign pages_list = site.html_pages | sort:"nav_order" -%}
     {%- for node in pages_list -%}
       {%- unless node.nav_exclude -%}
@@ -41,5 +47,5 @@
         {%- endif -%}
       {%- endunless -%}
     {%- endfor -%}
-  </ul>
+  </ul> -->
 </nav>
