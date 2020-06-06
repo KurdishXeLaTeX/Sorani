@@ -123,15 +123,14 @@ XeLaTeX ی کوردی ساز کراوە چاو لێ بکەن.
 ## سەبارەت بەم پڕۆژەیە
 
 TeX بۆ کۆمەڵگای زانستیی کوردییە.  مەبەستی سەرەکیی ئەم پڕۆژەی پەرە پێدان و زیاد کردنی زانیاری سەبارەت بە سیستمانی پێکهێنانی دەقی 
-دەتوانن چاو لە ماڵپەڕەکەمان بە [ئینگلیسی](https://kurdishxelatex.github.io){:target="_blank"} و  [کرمانجی](https://kurdishxelatex.github.io/Kurmanji){:target="_blank"} یش بکەن
+دەتوانن چاو لە ماڵپەڕەکەمان بە [ئینگلیسی](https://kurdishxelatex.github.io){:target="_blank"} و  [کرمانجی](https://kurdishxelatex.github.io/Kurmanji){:target="_blank"} یش بکەن.
 
 
 ## بەشداری
 
-ئەگەر TeX تان پێ خۆشە، لێی دەزانن یان دەتانهەوێ لێی بزانن و هەروەها کوردی ئاخێون، تکایە بەشداری لەم پڕۆژەیە بکەن. ئەم پڕۆژەیە خۆبەخشانە لە لایەنی بەشدارانی تامەزرۆوە بە ڕێوە دەچێ.
+ئەگەر TeX تان پێ خۆشە، لێی دەزانن یان دەتانهەوێ لێی بزانن و هەروەها کوردی ئاخێون، تکایە بەشداری لەم پڕۆژەیە بکەن. ئەم پڕۆژەیە خۆبەخشانە لە لایەنی بەشدارانی تامەزرۆوە بە ڕێوە دەچێ. گرووپی پڕۆژەکە: [https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup](https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup){:target="_blank"}
 
-## کێشە و پرسیار
-تکاتە پرسیارەکان یا کێشەکانتان پێمان ڕابگەیەنن.
+تکاتە پرسیارەکان یا کێشەکانتان پێمان ڕابگەیەنن. 
 
 <!-- Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing). -->
 
