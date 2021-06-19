@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  font-family:  'Amiri', serif;
+  font-family:  'Lateef', serif;
   font-size: inherit;
   line-height: $body-line-height;
   color: $body-text-color;
@@ -54,13 +54,14 @@ h5,
 h6 {
   margin-top: 1.2em;
   margin-bottom: 0.8em;
-  font-weight: 500;
+  font-weight: 700;
   line-height: $body-heading-line-height;
   color: $body-heading-color;
 }
 
 p {
   margin-bottom: 1em;
+  font-size: 1.3rem;
 }
 
 a {
@@ -95,8 +96,23 @@ pre {
   margin: 0;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
 li {
+  font-size: 1.3rem;
   margin: 0.25em 0;
+  left: -10px;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+li span {
+  position: relative;
+  left: -20px;
 }
 
 img {

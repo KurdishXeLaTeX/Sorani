@@ -10,7 +10,7 @@ permalink: /
 # گرووپی بەکارهێنەرە کوردەکانی XeLaTeX
 {: .fs-9 }
 
-مەبەستی سەرەکیـی ئەم گرووپە پەرە پێدان و ناساندنی سیستمی پێکهێنانی دەقی TeX و بە تایبەت XeLaTeX بە کۆمەڵگای زانستیـی کوردییە. 
+مەبەستی سەرەکیـی ئەم گرووپە پەرە پێدان و ناساندنی سیستمی پێکهێنانی دەقی TeX و بە تایبەت XeLaTeX بە کۆمەڵگای زانستیـی کوردییە.
 {: .fs-6 .fw-300 }
 
 <!-- [دەست پێ کردن](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
@@ -24,13 +24,15 @@ permalink: /
 TeX بۆ یەکەم جار لە ساڵی ١٩٧٨ لە لایەنی زانا و بلیمەتی کۆمپیوتەر دۆناڵد کنووس [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth){:target="_blank"} ەوە ساز کرا. TeX لە سەر ئەو بۆچوونەدا پێکهاتووە کە نووسەر دەبێ کاری نووسین بکا نەک ڕازاندنەوەی دەق. واتە، بۆ نووسەری بەڵگەیەک دەبێ ئەو ئامێرانە دابین کرابێ کە بتوانێ بە هەموو پێداویستییەکانی لە نووسیندا بگا، بگرە بۆ نووسینی فرمووڵێکی بیرکاری بێ یان هاوکێشەیەکی کیمیایی یان پارچە شیعرێک. بۆیەش، لە نێو ئاکادیمیا و ئەو کەسانه کە بە لێهاتوویی لە سەر بابەتێکی زانستی دەنووسن لە TeX زۆر بە بەربڵاوی کەڵک وەردەگیردرێ. وشەی TeX لە وشەی یۆنانی *τέχνη* یەوە دێ کە بە مانای هونەرە. لە بەر ئەوەی فۆنیمی χ لە کوردی و زۆر زماندا بەرانبەرێکی نییە، دەتوانین لە کوردی بڵەین *تێک* یان *تێخ*.
 
 تایبەتمەندییەکانی TeX بە کورتی، لە تایبەتیمەندییە هەرە گرینگەکانی تێک ئەمانەن:
- 
-- نووسینی گۆڤار، کتێب، ڕاپۆرتی تەکنیکی و سڵایدی ئامادەکاری
-- بەڕێوە بردنی بەڵگە گەورەکان کە زۆر بەش و بەند و سەرچاوەیان تێدایە
-- نووسینەوەی فرمووڵە پڕ وردەکارییەکان لە بیرکاریدا
-- سازکردنی ئۆتۆماتیکی سەرچاوەکان
-- بە ئاسانی کەڵک وەرگرتن لە وێنە و دیاگرام
-- گۆڕانەوە بە شێوەکانی دیکەی نیشان دانی دەق وەکوو HTML
+
+<ul>
+  <li><span> نووسینی گۆڤار، کتێب، ڕاپۆرتی تەکنیکی و سڵایدی ئامادەکاری</span></li>
+  <li><span> بەڕێوە بردنی بەڵگە گەورەکان کە زۆر بەش و بەند و سەرچاوەیان تێدایە</span></li>
+  <li><span>  نووسینەوەی فرمووڵە پڕ وردەکارییەکان لە بیرکاریدا</span></li>
+  <li><span> سازکردنی ئۆتۆماتیکی سەرچاوەکان</span></li>
+  <li><span> بە ئاسانی کەڵک وەرگرتن لە وێنە و دیاگرام</span></li>
+  <li><span>  گۆڕانەوە بە شێوەکانی دیکەی نیشان دانی دەق وەکوو HTML</span></li>
+</ul>
 
 هەر لە سەر بنەمای TeX ەوە، دواتر چەندین بەرهەمی دیکە دابین کران کە تێیاندا تایبەتمەندیگەلی زۆرتر ڕە چاو دەگیردرێ، وەکوو نووسین بە زمانانی دیکە و بە ڕێنووسی جیاواز لە ڕێنووسی لاتین.  [LaTeX](https://en.wikipedia.org/wiki/LaTeX){:target="_blank"} و [XeLaTeX](https://en.wikipedia.org/wiki/XeTeX){:target="_blank"} دوو نموونەی بەنێوبانگن کە بە تایبەت لەم سەردەمەدا کەڵکیان لێ وەردەگیردرێ.
 
@@ -89,10 +91,10 @@ The joy of writing Kurdish in \TeX.
 ```
 
 
-دەبێ بەڵگەکەتان بەو هەڵبژاردانە پێک بێنن کە لە هێڵی ٤دا دیاری کراوە کە لێیدا زاراوە، ڕێنووس و شێوەی ژمارەکان دیاری دەکەن. خشتەی  خوارەوە سەرجەم هەڵبژاردەکان نیشان دەدا کە لە دوایین وەشانی کوردی لە سەر 
+دەبێ بەڵگەکەتان بەو هەڵبژاردانە پێک بێنن کە لە هێڵی ٤دا دیاری کراوە کە لێیدا زاراوە، ڕێنووس و شێوەی ژمارەکان دیاری دەکەن. خشتەی  خوارەوە سەرجەم هەڵبژاردەکان نیشان دەدا کە لە دوایین وەشانی کوردی لە سەر
 `Polyglossia` دا هەیە.
 
-| Polyglossia name        | variant          | script | numerals | 
+| Polyglossia name        | variant          | script | numerals |
 |:-------------|:------------------|:------| :------- |
 | Kurdish          | sorani | arabic, latin  | eastern, western |
 | Kurdish | kurmanji  | arabic, latin  | eastern, western |
@@ -111,26 +113,61 @@ The joy of writing Kurdish in \TeX.
 
 ## بەڵگەکان
 
-XeLaTeX ی کوردی ساز کراوە چاو لێ بکەن. 
- لێرەدا دەتوانین چەند بەڵگە کە بە 
-- سۆرانی - ڕێنووسی عەرەبی [XeLaTeX بۆ نووسینی کوردی]({{site.url}}/assets/Kurdish_XeLaTeX_Sorani_Arabic.pdf){:target="_blank"}
-- سۆرانی - ڕێنووسی لاتین: [XeLaTeX bo Nûsînî Kurdî]({{site.url}}/assets/Kurdish_XeLaTeX_Sorani_Latin.pdf){:target="_blank"}
-- کرمانجی - ڕێنووسی لاتین: [XeLaTeX ji bo nivîsandina Kurdî]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Latin.pdf){:target="_blank"}
-- کرمانجی - ڕێنووسی عەرەبی: [XeLaTeX ژ بۆ نڤیساندنا کوردی]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Arabic.pdf){:target="_blank"}
+XeLaTeX ی کوردی ساز کراوە چاو لێ بکەن.
+ لێرەدا دەتوانین چەند بەڵگە کە بە
+
+ <ul>
+   <li>
+     <span>
+     سۆرانی - ڕێنووسی عەرەبی
+     (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a>)
+     </span>
+   </li>
+   <li>
+     <span>
+     سۆرانی - ڕێنووسی لاتین
+     (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Sorani_Latin.pdf" rel="noopener noreferrer" target="_blank">pdf</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Sorani_Latin.tex" rel="noopener noreferrer" target="_blank">tex</a>)
+     </span>
+   </li>
+   <li>
+     <span>
+     کورمانجی - ڕێنووسی لاتین
+     (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Kurmanji_Latin.pdf" rel="noopener noreferrer" target="_blank">pdf</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Kurmanji_Latin.tex" rel="noopener noreferrer" target="_blank">tex</a>)
+     </span>
+   </li>
+   <li>
+     <span>
+     کورمانجی - ڕێنووسی عەرەبی
+ 	(<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Kurmanji_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/Kurdish_XeLaTeX_Kurmanji_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a>)
+     </span>
+   </li>
+ </ul>
+
+
+چەند نموونەی دیکەش لە لایەنی بەکارهێنەرە بەڕێزەکان ساز کراون کە دەتوانن بە کاریان بێنن:
+
+<ul>
+    <li>
+      <span>
+      نموونەیەک لە وتارێک لە سەر بیرکاری بە سۆرانی (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.pdf" rel="noopener noreferrer" target="_blank">pdf</a>). سپاس بۆ کاک هەتوان خالید بۆ ئامادەکردنی ئەم نموونەیە.
+      </span>
+    </li>
+</ul>
 
 ---
 
 ## سەبارەت بەم پڕۆژەیە
 
-TeX بۆ کۆمەڵگای زانستیی کوردییە.  مەبەستی سەرەکیی ئەم پڕۆژەی پەرە پێدان و زیاد کردنی زانیاری سەبارەت بە سیستمانی پێکهێنانی دەقی 
+TeX بۆ کۆمەڵگای زانستیی کوردییە.  مەبەستی سەرەکیی ئەم پڕۆژەی پەرە پێدان و زیاد کردنی زانیاری سەبارەت بە سیستمانی پێکهێنانی دەقی
 دەتوانن چاو لە ماڵپەڕەکەمان بە [ئینگلیسی](https://kurdishxelatex.github.io){:target="_blank"} و  [کرمانجی](https://kurdishxelatex.github.io/Kurmanji){:target="_blank"} یش بکەن.
 
+لە سەر ئەم پڕۆژەیە، وتارێک بە نێوی "پەرەپێدانی لاتێک بۆ کوردی" لە گۆڤاری هۆژین بڵاو کراوەتەوە کە دەتوانن [لێرەدا](https://hojan.org/j09/b14/) بیبیسن یان [لێرەدا](https://hojan.org/hojin/mag-no-9-10/) گۆڤارەکە بدۆزنەوە.
 
 ## بەشداری
 
 ئەگەر TeX تان پێ خۆشە، لێی دەزانن یان دەتانهەوێ لێی بزانن و هەروەها کوردی ئاخێون، تکایە بەشداری لەم پڕۆژەیە بکەن. ئەم پڕۆژەیە خۆبەخشانە لە لایەنی بەشدارانی تامەزرۆوە بە ڕێوە دەچێ. گرووپی پڕۆژەکە: [https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup](https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup){:target="_blank"}
 
-تکاتە پرسیارەکان یا کێشەکانتان پێمان ڕابگەیەنن. 
+تکاتە پرسیارەکان یا کێشەکانتان پێمان ڕابگەیەنن.
 
 <!-- Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing). -->
 
