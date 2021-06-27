@@ -152,6 +152,11 @@ XeLaTeX ی کوردی ساز کراوە چاو لێ بکەن.
       نموونەیەک لە وتارێک لە سەر بیرکاری بە سۆرانی (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.pdf" rel="noopener noreferrer" target="_blank">pdf</a>). سپاس بۆ کاک هەتوان خالید بۆ ئامادەکردنی ئەم نموونەیە.
       </span>
     </li>
+    <li>
+      <span>
+      بەڵگەی تاقی کردنەوە بە خشتەوە بە سۆرانی (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/exam_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/exam_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a>). سپاس بۆ کاک هەتوان خالید بۆ ئامادەکردنی ئەم نموونەیە.
+      </span>
+    </li>
 </ul>
 
 ---
