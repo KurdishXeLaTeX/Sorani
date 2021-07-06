@@ -144,20 +144,43 @@ XeLaTeX ی کوردی ساز کراوە چاو لێ بکەن.
  </ul>
 
 
-چەند نموونەی دیکەش لە لایەنی بەکارهێنەرە بەڕێزەکان ساز کراون کە دەتوانن بە کاریان بێنن:
+چەند نموونەی دیکەش لە لایەنی بەکارهێنەرە بەڕێزەکان ساز کراون کە دەتوانن بە کاریان بێنن. سپاسی تایبەت بۆ کاک هەتوان خالید بۆ ئامادەکردنی ئەو نموونانەی خوارەوە بە سۆرانی: 
 
 <ul>
     <li>
       <span>
-      نموونەیەک لە وتارێک لە سەر بیرکاری بە سۆرانی (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.pdf" rel="noopener noreferrer" target="_blank">pdf</a>). سپاس بۆ کاک هەتوان خالید بۆ ئامادەکردنی ئەم نموونەیە.
+      نموونەیەک لە وتارێک لە سەر بیرکاری: (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/sin_math_Sorani_Arab.pdf" rel="noopener noreferrer" target="_blank">pdf</a>). 
       </span>
     </li>
     <li>
       <span>
-      بەڵگەی تاقی کردنەوە بە خشتەوە بە سۆرانی (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/exam_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/exam_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a>). سپاس بۆ کاک هەتوان خالید بۆ ئامادەکردنی ئەم نموونەیە.
+      بەڵگەی تاقی کردنەوە بە خشتەوە: (<a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/exam_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/exam_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a>).
+      </span>
+    </li>
+    <li>
+      <span>
+      نموونەیەک بۆ کێشانەوەی دار یان گراف:  <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/tree_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/tree_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a>. 
+      </span>
+    </li>
+    <li>
+      <span>
+      نموونەیەک بۆ کێشانەوەی چارت یان هێڵکاری: <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/plots_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/plots_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a>. 
+      </span>
+    </li>
+    <li>
+      <span>
+      نموونەیەک بۆ کێشانەوەی هێڵکاریی سێگۆشە:  <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/triangle_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/triangle_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a>. 
+      </span>
+    </li>
+    <li>
+      <span>
+      نموونەیەک بۆ کێشانەوەی هێڵکاریی کولێرەیی:  <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/piecharts_Sorani_Arabic.tex" rel="noopener noreferrer" target="_blank">tex</a> | <a href="https://github.com/KurdishXeLaTeX/Support/blob/master/docs/piecharts_Sorani_Arabic.pdf" rel="noopener noreferrer" target="_blank">pdf</a>. 
       </span>
     </li>
 </ul>
+
+
+
 
 ---
 
