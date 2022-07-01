@@ -180,7 +180,17 @@ XeLaTeX ی کوردی ساز کراوە چاو لێ بکەن.
 </ul>
 
 
+### هەواڵێکی خۆش ☺️🎉
+**هەتوان خالید**، خوێندکاری فیزیا لە زانکۆی کۆیە، کتێبێکی لە سەر بەکارهێنانی لاتێک بە کوردی نووسیوە. زۆری سپاس دەکەم بۆ کات و سەرنجی و تێکۆشینی خۆبەخشانەی و هیوام سەرکەوتنی وی و هەموو هۆگرانی زانست لە کۆمەڵگای کوردییە. ئافەرین، هەتوان!
 
+[فەرموو لێرەوە کتێبە کە خۆڕایی داگرە!](https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf){:target="_blank"}.
+
+<a href="https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022_cover.png" 
+       width="400" 
+       height="500"
+       alt= "Hatwan Khalid Learn LaTeX Kurdish book cover"/>
+</a>
 
 ---
 
@@ -200,3 +210,17 @@ TeX بۆ کۆمەڵگای زانستیی کوردییە.  مەبەستی سەر�
 <!-- Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing). -->
 
 #### سپاس بۆ هەموو بەشدار بووان
+
+
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('sinaahmadi', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
